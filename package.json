@@ -1,7 +1,7 @@
 {
-  "name": "clitest",
+  "name": "@lonewolfdays/clitest",
   "version": "0.1.0",
-  "private": true,
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
